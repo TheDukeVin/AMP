@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+
+# Set up autograder files
+
+cp /autograder/submission/friendships.py /autograder/source/friendships.py
+
+cd /autograder/source
+
+python3 run_tests.py

@@ -1,0 +1,66 @@
+{
+  "puzzle": [
+    "15.gif",
+    "45.gif",
+    "55.gif",
+    "39.gif",
+    "52.gif",
+    "76.gif",
+    "70.gif",
+    "64.gif",
+    "32.gif",
+    "26.gif",
+    "42.gif",
+    "67.gif"
+  ],
+  "solutions": [
+    [
+      [
+        "15.gif",
+        "76.gif",
+        "32.gif"
+      ],
+      "All different Numbers - All are Purple - All different Symbols - All different Shadings"
+    ],
+    [
+      [
+        "45.gif",
+        "39.gif",
+        "42.gif"
+      ],
+      "All have 3 - All different Colors - All are Diamonds - All are Striped"
+    ],
+    [
+      [
+        "55.gif",
+        "76.gif",
+        "70.gif"
+      ],
+      "All have 1 - All different Colors - All different Symbols - All are Empty"
+    ],
+    [
+      [
+        "55.gif",
+        "26.gif",
+        "42.gif"
+      ],
+      "All different Numbers - All different Colors - All different Symbols - All different Shadings"
+    ],
+    [
+      [
+        "39.gif",
+        "52.gif",
+        "32.gif"
+      ],
+      "All different Numbers - All different Colors - All different Symbols - All are Striped"
+    ],
+    [
+      [
+        "70.gif",
+        "64.gif",
+        "67.gif"
+      ],
+      "All have 1 - All different Colors - All are Diamonds - All are Empty"
+    ]
+  ]
+}

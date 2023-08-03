@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+
+# Set up autograder files
+
+cp /autograder/submission/review_python_practice.py /autograder/source/review_python_practice.py
+
+cd /autograder/source
+
+python3 run_tests.py

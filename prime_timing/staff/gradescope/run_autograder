@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+
+# Set up autograder files
+
+cp /autograder/submission/prime_timing.py /autograder/source/prime_timing.py
+
+cd /autograder/source
+
+python3 run_tests.py

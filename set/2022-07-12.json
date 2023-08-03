@@ -1,0 +1,66 @@
+{
+  "puzzle": [
+    "41.gif",
+    "34.gif",
+    "23.gif",
+    "5.gif",
+    "3.gif",
+    "7.gif",
+    "44.gif",
+    "38.gif",
+    "56.gif",
+    "33.gif",
+    "50.gif",
+    "29.gif"
+  ],
+  "solutions": [
+    [
+      [
+        "41.gif",
+        "44.gif",
+        "38.gif"
+      ],
+      "All have 2 - All different Colors - All are Diamonds - All are Striped"
+    ],
+    [
+      [
+        "34.gif",
+        "33.gif",
+        "29.gif"
+      ],
+      "All different Numbers - All different Colors - All are Swiggles - All are Striped"
+    ],
+    [
+      [
+        "23.gif",
+        "44.gif",
+        "56.gif"
+      ],
+      "All have 2 - All different Colors - All different Symbols - All different Shadings"
+    ],
+    [
+      [
+        "5.gif",
+        "3.gif",
+        "7.gif"
+      ],
+      "All different Numbers - All different Colors - All are Swiggles - All are Solid"
+    ],
+    [
+      [
+        "7.gif",
+        "56.gif",
+        "33.gif"
+      ],
+      "All different Numbers - All different Colors - All are Swiggles - All different Shadings"
+    ],
+    [
+      [
+        "44.gif",
+        "50.gif",
+        "29.gif"
+      ],
+      "All have 2 - All different Colors - All different Symbols - All are Striped"
+    ]
+  ]
+}

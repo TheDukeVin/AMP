@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+
+# Set up autograder files
+
+cp /autograder/submission/anagram_race.py /autograder/source/anagram_race.py
+
+cd /autograder/source
+
+python3 run_tests.py

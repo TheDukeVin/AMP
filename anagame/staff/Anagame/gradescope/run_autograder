@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+
+# Set up autograder files
+
+cp /autograder/submission/anagame.py /autograder/source/anagame.py
+cp /autograder/submission/AnagramExplorer.py /autograder/source/AnagramExplorer.py
+
+cd /autograder/source
+
+python3 run_tests.py
